@@ -1,0 +1,3771 @@
+{
+  "Version": "v1.11.362.117521-prod",
+  "Types": [
+    {
+      "RefactoredName": "ActionBuildingObject",
+      "ObfuscatedName": "a6t",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "a6r",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "ActionPoint",
+      "ObfuscatedName": "ajd",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": true,
+      "IsPublic": true,
+      "BaseType": "System.ValueType",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": [
+        {
+          "RefactoredName": "Position",
+          "ObfuscatedName": "a",
+          "Type": "ao6",
+          "IsPublic": true,
+          "IsStatic": false,
+          "DeclaringType": "ajd"
+        },
+        {
+          "RefactoredName": "Radius",
+          "ObfuscatedName": "b",
+          "Type": "System.Single",
+          "IsPublic": true,
+          "IsStatic": false,
+          "DeclaringType": "ajd"
+        }
+      ]
+    },
+    {
+      "RefactoredName": "ActiveSpellDescriptor",
+      "ObfuscatedName": "cx",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "cw",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [
+        {
+          "RefactoredName": "Assesment",
+          "ObfuscatedName": "bq",
+          "Type": "cx/SpellAssessment",
+          "HasPublicGetter": true,
+          "HasPublicSetter": false,
+          "DeclaringType": "cx"
+        },
+        {
+          "RefactoredName": "Category",
+          "ObfuscatedName": "bp",
+          "Type": "cx/SpellCategory",
+          "HasPublicGetter": true,
+          "HasPublicSetter": false,
+          "DeclaringType": "cx"
+        },
+        {
+          "RefactoredName": "EnergyCost",
+          "ObfuscatedName": "bg",
+          "Type": "System.Single",
+          "HasPublicGetter": true,
+          "HasPublicSetter": false,
+          "DeclaringType": "cx"
+        },
+        {
+          "RefactoredName": "Target",
+          "ObfuscatedName": "be",
+          "Type": "cx/SpellTarget",
+          "HasPublicGetter": true,
+          "HasPublicSetter": false,
+          "DeclaringType": "cx"
+        }
+      ],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "AgentDescriptor",
+      "ObfuscatedName": "apu",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "System.Object",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "AgentsDataFile",
+      "ObfuscatedName": "de",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "r",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "AgentTypeDescriptor",
+      "ObfuscatedName": "df",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "System.Object",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "BuildingDataFile",
+      "ObfuscatedName": "ah6",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "r",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "BuildingDescriptor",
+      "ObfuscatedName": "cs",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "System.Object",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "BuildingObject",
+      "ObfuscatedName": "a6r",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "a6q",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "CastleGateObject",
+      "ObfuscatedName": "a6u",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "a6r",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "CastSpellDescriptor",
+      "ObfuscatedName": "cy",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "cx",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "ChannelSpellDescriptor",
+      "ObfuscatedName": "ie",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "cx",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "CharacterDescriptor",
+      "ObfuscatedName": "f3",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "System.Object",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "CharactersDataFile",
+      "ObfuscatedName": "er",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "r",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "CharacterSpellSlot",
+      "ObfuscatedName": "Albion.Common.GameData.CharacterSpellSlot",
+      "IsClass": true,
+      "IsEnum": true,
+      "IsInterface": false,
+      "IsValueType": true,
+      "IsPublic": true,
+      "BaseType": "System.Enum",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "ClientTools",
+      "ObfuscatedName": "bdr",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "System.Object",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "ClusterDescriptor",
+      "ObfuscatedName": "ap3",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "System.Object",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [
+        {
+          "RefactoredName": "GetAgent",
+          "ObfuscatedName": "ao",
+          "ReturnType": "apu",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ap3",
+          "GenericParameters": [],
+          "Parameters": [
+            {
+              "Type": "System.Guid",
+              "ObfuscatedName": "A_0"
+            }
+          ]
+        },
+        {
+          "RefactoredName": "GetAgents",
+          "ObfuscatedName": "ba",
+          "ReturnType": "System.Collections.Generic.List`1<apu>",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ap3",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetCenter",
+          "ObfuscatedName": "bs",
+          "ReturnType": "ao6",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ap3",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetClusterType",
+          "ObfuscatedName": "au",
+          "ReturnType": "rw",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ap3",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetExits",
+          "ObfuscatedName": "a5",
+          "ReturnType": "System.Collections.Generic.List`1<ap4>",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ap3",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetIdent",
+          "ObfuscatedName": "ao",
+          "ReturnType": "System.String",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ap3",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetOrigin",
+          "ObfuscatedName": "a0",
+          "ReturnType": "ao6",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ap3",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetSize",
+          "ObfuscatedName": "a1",
+          "ReturnType": "ao6",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ap3",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetTerritories",
+          "ObfuscatedName": "a8",
+          "ReturnType": "System.Collections.Generic.List`1<ap8>",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ap3",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetTerritory",
+          "ObfuscatedName": "ap",
+          "ReturnType": "ap8",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ap3",
+          "GenericParameters": [],
+          "Parameters": [
+            {
+              "Type": "System.Guid",
+              "ObfuscatedName": "A_0"
+            }
+          ]
+        }
+      ],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "ClusterExitDescriptor",
+      "ObfuscatedName": "ap4",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "System.Object",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [
+        {
+          "RefactoredName": "GetDestination",
+          "ObfuscatedName": "p",
+          "ReturnType": "ap3",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ap4",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetKind",
+          "ObfuscatedName": "s",
+          "ReturnType": "ap4/Kind",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ap4",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetPosition",
+          "ObfuscatedName": "w",
+          "ReturnType": "ao6",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ap4",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetSource",
+          "ObfuscatedName": "m",
+          "ReturnType": "ap3",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ap4",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "SetDestination",
+          "ObfuscatedName": "m",
+          "ReturnType": "System.Void",
+          "IsStatic": false,
+          "IsPublic": false,
+          "DeclaringType": "ap4",
+          "GenericParameters": [],
+          "Parameters": [
+            {
+              "Type": "ap3",
+              "ObfuscatedName": "A_0"
+            }
+          ]
+        },
+        {
+          "RefactoredName": "SetSource",
+          "ObfuscatedName": "n",
+          "ReturnType": "System.Void",
+          "IsStatic": false,
+          "IsPublic": false,
+          "DeclaringType": "ap4",
+          "GenericParameters": [],
+          "Parameters": [
+            {
+              "Type": "ap3",
+              "ObfuscatedName": "A_0"
+            }
+          ]
+        }
+      ],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "ClusterExitKind",
+      "ObfuscatedName": "ap4/Kind",
+      "IsClass": true,
+      "IsEnum": true,
+      "IsInterface": false,
+      "IsValueType": true,
+      "IsPublic": false,
+      "BaseType": "System.Enum",
+      "DeclaringType": "ap4",
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "ClusterTypeDescriptor",
+      "ObfuscatedName": "rw",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "System.Object",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [
+        {
+          "RefactoredName": "GetPvpRules",
+          "ObfuscatedName": "ap",
+          "ReturnType": "kc/PvpRules",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "rw",
+          "GenericParameters": [],
+          "Parameters": []
+        }
+      ],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "ClusterXmlOperator",
+      "ObfuscatedName": "kv",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "kn",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "CollisionFlags",
+      "ObfuscatedName": "ai9/a",
+      "IsClass": true,
+      "IsEnum": true,
+      "IsInterface": false,
+      "IsValueType": true,
+      "IsPublic": false,
+      "BaseType": "System.Enum",
+      "DeclaringType": "ai9",
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "CollisionManager",
+      "ObfuscatedName": "ai7",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "System.Object",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [
+        {
+          "RefactoredName": "GetCollision",
+          "ObfuscatedName": "f",
+          "ReturnType": "System.Byte",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ai7",
+          "GenericParameters": [],
+          "Parameters": [
+            {
+              "Type": "ao6",
+              "ObfuscatedName": "A_0"
+            },
+            {
+              "Type": "System.Single",
+              "ObfuscatedName": "A_1"
+            }
+          ]
+        }
+      ],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "CompoundTileDescriptor",
+      "ObfuscatedName": "r1",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "System.Object",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "ConsumableItemDescriptor",
+      "ObfuscatedName": "et",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "c4",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "ConsumableItemObject",
+      "ObfuscatedName": "ax2",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "ax1",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "ConsumableItemProxy",
+      "ObfuscatedName": "ayc",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "aya",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "DataFile",
+      "ObfuscatedName": "r",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "System.Object",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "DurableItemDescriptor",
+      "ObfuscatedName": "c2",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "c1",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "DurableItemObject",
+      "ObfuscatedName": "ax7",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "ax0",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "DurableItemProxy",
+      "ObfuscatedName": "ax4",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "ax3",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "Duration",
+      "ObfuscatedName": "apk",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": true,
+      "IsPublic": true,
+      "BaseType": "System.ValueType",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "EquipmentItemDescriptor",
+      "ObfuscatedName": "f9",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "c2",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "EquipmentItemObject",
+      "ObfuscatedName": "ayh",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "ax7",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "EquipmentItemProxy",
+      "ObfuscatedName": "ax5",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "ax4",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "EventDataContract",
+      "ObfuscatedName": "k4",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "k3",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "ExitObject",
+      "ObfuscatedName": "a75",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "a6q",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [
+        {
+          "RefactoredName": "GetDescriptor",
+          "ObfuscatedName": "tk",
+          "ReturnType": "ap4",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "a75",
+          "GenericParameters": [],
+          "Parameters": []
+        }
+      ],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "FarmableItemDescriptor",
+      "ObfuscatedName": "ev",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "c4",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "FarmableItemObject",
+      "ObfuscatedName": "ayg",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "ax1",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "FarmableItemProxy",
+      "ObfuscatedName": "ayb",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "aya",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "FarmableObject",
+      "ObfuscatedName": "a7d",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "a6r",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "FightingAttributes",
+      "ObfuscatedName": "ahm",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "System.Object",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [
+        {
+          "RefactoredName": "GetEnergyRegen",
+          "ObfuscatedName": "bf",
+          "ReturnType": "System.Single",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ahm",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetHealthRegen",
+          "ObfuscatedName": "bd",
+          "ReturnType": "System.Single",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ahm",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetMaxCraftingFocus",
+          "ObfuscatedName": "cx",
+          "ReturnType": "System.Single",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ahm",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetMaxCraftingRegeneration",
+          "ObfuscatedName": "cy",
+          "ReturnType": "System.Single",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ahm",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetMaxEnergy",
+          "ObfuscatedName": "be",
+          "ReturnType": "System.Single",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ahm",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetMaxHealth",
+          "ObfuscatedName": "bc",
+          "ReturnType": "System.Single",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ahm",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetMaxLoad",
+          "ObfuscatedName": "bh",
+          "ReturnType": "System.Single",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ahm",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetMoveSpeed",
+          "ObfuscatedName": "bg",
+          "ReturnType": "System.Single",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ahm",
+          "GenericParameters": [],
+          "Parameters": []
+        }
+      ],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "FightingObject",
+      "ObfuscatedName": "ayu",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "ays",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [
+        {
+          "RefactoredName": "GetAttributes",
+          "ObfuscatedName": "ax",
+          "ReturnType": "ahm",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ayu",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetEnergy",
+          "ObfuscatedName": "ya",
+          "ReturnType": "ah5<ah4>",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ayu",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetHealth",
+          "ObfuscatedName": "x9",
+          "ReturnType": "ah5<ah4>",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ayu",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetCharacterDescriptor",
+          "ObfuscatedName": "yi",
+          "ReturnType": "f3",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ayu",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetIsAttacking",
+          "ObfuscatedName": "z9",
+          "ReturnType": "System.Boolean",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ayu",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetIsCasting",
+          "ObfuscatedName": "z4",
+          "ReturnType": "System.Boolean",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ayu",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetIsDead",
+          "ObfuscatedName": "kc",
+          "ReturnType": "System.Boolean",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ayu",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetIsChanneling",
+          "ObfuscatedName": "z5",
+          "ReturnType": "System.Boolean",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ayu",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetIsIdle",
+          "ObfuscatedName": "z3",
+          "ReturnType": "System.Boolean",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ayu",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetLoad",
+          "ObfuscatedName": "ke",
+          "ReturnType": "System.Single",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ayu",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetLoadPercentage",
+          "ObfuscatedName": "yl",
+          "ReturnType": "System.Single",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ayu",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetLoadSpeedFactor",
+          "ObfuscatedName": "ym",
+          "ReturnType": "System.Single",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ayu",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetMaxLoad",
+          "ObfuscatedName": "yk",
+          "ReturnType": "System.Single",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ayu",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetName",
+          "ObfuscatedName": "jf",
+          "ReturnType": "System.String",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ayu",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetTargetId",
+          "ObfuscatedName": "yf",
+          "ReturnType": "System.Int64",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ayu",
+          "GenericParameters": [],
+          "Parameters": []
+        }
+      ],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "FurnitureItemDescriptor",
+      "ObfuscatedName": "gb",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "c2",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "FurnitureItemObject",
+      "ObfuscatedName": "ayl",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "ax7",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "FurnitureItemProxy",
+      "ObfuscatedName": "ax9",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "ax4",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "FurnitureObject",
+      "ObfuscatedName": "a61",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "a6r",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "GameDataFile",
+      "ObfuscatedName": "ai6",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "r",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "GameData",
+      "ObfuscatedName": "ir",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "System.Object",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [
+        {
+          "RefactoredName": "GetAgents",
+          "ObfuscatedName": "a6",
+          "ReturnType": "de",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ir",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetBuildings",
+          "ObfuscatedName": "at",
+          "ReturnType": "ah6",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ir",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetGameData",
+          "ObfuscatedName": "av",
+          "ReturnType": "ai6",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ir",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetItems",
+          "ObfuscatedName": "ar",
+          "ReturnType": "aib",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ir",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetMobCharacters",
+          "ObfuscatedName": "aw",
+          "ReturnType": "f1",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ir",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetPlayerCharacters",
+          "ObfuscatedName": "ay",
+          "ReturnType": "fr",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ir",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetSpells",
+          "ObfuscatedName": "as",
+          "ReturnType": "jl",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ir",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetWorld",
+          "ObfuscatedName": "a1",
+          "ReturnType": "ap9",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ir",
+          "GenericParameters": [],
+          "Parameters": []
+        }
+      ],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "GameManager",
+      "ObfuscatedName": "bfy",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "System.Object",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [
+        {
+          "RefactoredName": "GetInstance",
+          "ObfuscatedName": "t",
+          "ReturnType": "bfy",
+          "IsStatic": true,
+          "IsPublic": true,
+          "DeclaringType": "bfy",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetLandscapeManager",
+          "ObfuscatedName": "aa",
+          "ReturnType": "bfv",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "bfy",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetLocalPlayerCharacterView",
+          "ObfuscatedName": "w",
+          "ReturnType": "LocalPlayerCharacterView",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "bfy",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetState",
+          "ObfuscatedName": "x",
+          "ReturnType": "apo",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "bfy",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetView",
+          "ObfuscatedName": "a",
+          "ReturnType": "SimulationObjectView",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "bfy",
+          "GenericParameters": [],
+          "Parameters": [
+            {
+              "Type": "axz",
+              "ObfuscatedName": "A_0"
+            }
+          ]
+        },
+        {
+          "RefactoredName": "GetView",
+          "ObfuscatedName": "a",
+          "ReturnType": "SimulationObjectView",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "bfy",
+          "GenericParameters": [],
+          "Parameters": [
+            {
+              "Type": "System.Int64",
+              "ObfuscatedName": "A_0"
+            }
+          ]
+        }
+      ],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "GameState",
+      "ObfuscatedName": "apo",
+      "IsClass": true,
+      "IsEnum": true,
+      "IsInterface": false,
+      "IsValueType": true,
+      "IsPublic": true,
+      "BaseType": "System.Enum",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "GuiDurableItemProxy",
+      "ObfuscatedName": "bc3",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "bc6",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "GuiEquipmentItemProxy",
+      "ObfuscatedName": "bc4",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "bc3",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "GuiFurnitureItemProxy",
+      "ObfuscatedName": "bc5",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "bc3",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "GuiItemProxy",
+      "ObfuscatedName": "bc6",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "System.Object",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "GuiJournalItemProxy",
+      "ObfuscatedName": "bc7",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "bc3",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "GuildMember",
+      "ObfuscatedName": "axy",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "System.Object",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "Guild",
+      "ObfuscatedName": "axx",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "System.Object",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [
+        {
+          "RefactoredName": "GetMembers",
+          "ObfuscatedName": "ap",
+          "ReturnType": "axy[]",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "axx",
+          "GenericParameters": [],
+          "Parameters": []
+        }
+      ],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "GuiSimpleItemProxy",
+      "ObfuscatedName": "bc8",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "bc6",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "HarvestableChargeDescriptor",
+      "ObfuscatedName": "i0/a",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": false,
+      "BaseType": "System.Object",
+      "DeclaringType": "i0",
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "HarvestableDescriptor",
+      "ObfuscatedName": "i0",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "System.Object",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [
+        {
+          "RefactoredName": "GetTiers",
+          "ObfuscatedName": "i",
+          "ReturnType": "i0/b[]",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "i0",
+          "GenericParameters": [],
+          "Parameters": []
+        }
+      ],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "HarvestableObject",
+      "ObfuscatedName": "a8w",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "a6q",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [
+        {
+          "RefactoredName": "GetActionPoint",
+          "ObfuscatedName": "a0",
+          "ReturnType": "ajd",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "a8w",
+          "GenericParameters": [],
+          "Parameters": [
+            {
+              "Type": "ao6",
+              "ObfuscatedName": "A_0"
+            }
+          ]
+        },
+        {
+          "RefactoredName": "GetDescriptor",
+          "ObfuscatedName": "tl",
+          "ReturnType": "i0",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "a8w",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetChargeDescriptor",
+          "ObfuscatedName": "tn",
+          "ReturnType": "i0/a",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "a8w",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetCharges",
+          "ObfuscatedName": "tw",
+          "ReturnType": "System.Int64",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "a8w",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetMaxCharges",
+          "ObfuscatedName": "tx",
+          "ReturnType": "System.Int64",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "a8w",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetProtectedUntil",
+          "ObfuscatedName": "t0",
+          "ReturnType": "Albion.Common.Time.GameTimeStamp",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "a8w",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetRareState",
+          "ObfuscatedName": "tv",
+          "ReturnType": "System.Int32",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "a8w",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetResourceDescriptor",
+          "ObfuscatedName": "t1",
+          "ReturnType": "c1",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "a8w",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetTierDescriptor",
+          "ObfuscatedName": "tm",
+          "ReturnType": "i0/b",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "a8w",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetTool",
+          "ObfuscatedName": "a0",
+          "ReturnType": "ax5",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "a8w",
+          "GenericParameters": [],
+          "Parameters": [
+            {
+              "Type": "a3i",
+              "ObfuscatedName": "A_0"
+            },
+            {
+              "Type": "System.Boolean",
+              "ObfuscatedName": "A_1"
+            }
+          ]
+        },
+        {
+          "RefactoredName": "GetYield",
+          "ObfuscatedName": "ty",
+          "ReturnType": "System.Int64",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "a8w",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "IsHarvestable",
+          "ObfuscatedName": "tz",
+          "ReturnType": "System.Boolean",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "a8w",
+          "GenericParameters": [],
+          "Parameters": []
+        }
+      ],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "HarvestableRareStateDescriptor",
+      "ObfuscatedName": "i0/b/a",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": false,
+      "BaseType": "System.Object",
+      "DeclaringType": "i0/b",
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "HarvestableTierDescriptor",
+      "ObfuscatedName": "i0/b",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": false,
+      "BaseType": "System.Object",
+      "DeclaringType": "i0",
+      "GenericParameters": [],
+      "Methods": [
+        {
+          "RefactoredName": "GetCharges",
+          "ObfuscatedName": "a0",
+          "ReturnType": "i0/a[]",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "i0/b",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetRareStates",
+          "ObfuscatedName": "av",
+          "ReturnType": "i0/b/a[]",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "i0/b",
+          "GenericParameters": [],
+          "Parameters": []
+        }
+      ],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "ItemDescriptor",
+      "ObfuscatedName": "c1",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "System.Object",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [
+        {
+          "RefactoredName": "Description",
+          "ObfuscatedName": "ah",
+          "Type": "System.String",
+          "HasPublicGetter": true,
+          "HasPublicSetter": false,
+          "DeclaringType": "c1"
+        },
+        {
+          "RefactoredName": "DescriptionTag",
+          "ObfuscatedName": "aq",
+          "Type": "System.String",
+          "HasPublicGetter": false,
+          "HasPublicSetter": false,
+          "DeclaringType": "c1"
+        },
+        {
+          "RefactoredName": "Name",
+          "ObfuscatedName": "e",
+          "Type": "System.String",
+          "HasPublicGetter": true,
+          "HasPublicSetter": false,
+          "DeclaringType": "c1"
+        },
+        {
+          "RefactoredName": "NameTag",
+          "ObfuscatedName": "ap",
+          "Type": "System.String",
+          "HasPublicGetter": false,
+          "HasPublicSetter": false,
+          "DeclaringType": "c1"
+        },
+        {
+          "RefactoredName": "ResourceType",
+          "ObfuscatedName": "v",
+          "Type": "System.String",
+          "HasPublicGetter": true,
+          "HasPublicSetter": false,
+          "DeclaringType": "c1"
+        },
+        {
+          "RefactoredName": "Tier",
+          "ObfuscatedName": "f",
+          "Type": "System.Int32",
+          "HasPublicGetter": true,
+          "HasPublicSetter": false,
+          "DeclaringType": "c1"
+        }
+      ],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "ItemObjectCollection",
+      "ObfuscatedName": "ayn",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "System.Object",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "ItemObject",
+      "ObfuscatedName": "ax0",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "axz",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "ItemProxy",
+      "ObfuscatedName": "ax3",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "System.Object",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [
+        {
+          "RefactoredName": "Create",
+          "ObfuscatedName": "s",
+          "ReturnType": "ax3",
+          "IsStatic": true,
+          "IsPublic": true,
+          "DeclaringType": "ax3",
+          "GenericParameters": [],
+          "Parameters": [
+            {
+              "Type": "ax0",
+              "ObfuscatedName": "A_0"
+            }
+          ]
+        },
+        {
+          "RefactoredName": "GetItemDescriptor",
+          "ObfuscatedName": "t",
+          "ReturnType": "c1",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ax3",
+          "GenericParameters": [],
+          "Parameters": []
+        }
+      ],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "ItemsDataFile",
+      "ObfuscatedName": "aib",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "r",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "JournalItemDescriptor",
+      "ObfuscatedName": "dz",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "c2",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "JournalItemObject",
+      "ObfuscatedName": "ayf",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "ax7",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "JournalItemProxy",
+      "ObfuscatedName": "ayd",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "ax4",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "LandscapeManager",
+      "ObfuscatedName": "bfv",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "System.Object",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [
+        {
+          "RefactoredName": "GetTerrainHeight",
+          "ObfuscatedName": "e",
+          "ReturnType": "System.Single",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "bfv",
+          "GenericParameters": [],
+          "Parameters": [
+            {
+              "Type": "ao6",
+              "ObfuscatedName": "A_0"
+            },
+            {
+              "Type": "UnityEngine.RaycastHit&",
+              "ObfuscatedName": "A_1"
+            }
+          ]
+        }
+      ],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "LocalPlayerAttributes",
+      "ObfuscatedName": "aho",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "ahm",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "LocalPlayerCharacter",
+      "ObfuscatedName": "a3i",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "a3h",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [
+        {
+          "RefactoredName": "GetCraftingFocus",
+          "ObfuscatedName": "tl",
+          "ReturnType": "ah5<ah1>",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "a3i",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetDestination",
+          "ObfuscatedName": "u2",
+          "ReturnType": "ao6",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "a3i",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetGlobalCooldownTimeStamp",
+          "ObfuscatedName": "uy",
+          "ReturnType": "Albion.Common.Time.GameTimeStamp",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "a3i",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetSpellSlotCooldownPercent",
+          "ObfuscatedName": "h6",
+          "ReturnType": "System.Single",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "a3i",
+          "GenericParameters": [],
+          "Parameters": [
+            {
+              "Type": "System.Byte",
+              "ObfuscatedName": "A_0"
+            }
+          ]
+        },
+        {
+          "RefactoredName": "GetSpellSlots",
+          "ObfuscatedName": "ux",
+          "ReturnType": "a3l",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "a3i",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetWeight",
+          "ObfuscatedName": "vu",
+          "ReturnType": "System.Single",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "a3i",
+          "GenericParameters": [],
+          "Parameters": []
+        }
+      ],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "LootObject",
+      "ObfuscatedName": "a8x",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "a6q",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "MobCharacterAttributes",
+      "ObfuscatedName": "ahn",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "ahm",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "MobCharacterDescriptor",
+      "ObfuscatedName": "f4",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "f3",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "MobCharactersDataFile",
+      "ObfuscatedName": "f1",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "er",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "MobCharacter",
+      "ObfuscatedName": "azy",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "ayu",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [
+        {
+          "RefactoredName": "GetMobDescriptor",
+          "ObfuscatedName": "tl",
+          "ReturnType": "f4",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "azy",
+          "GenericParameters": [],
+          "Parameters": []
+        }
+      ],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "MountItemDescriptor",
+      "ObfuscatedName": "ga",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "f9",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [
+        {
+          "RefactoredName": "GetHalfMountRange",
+          "ObfuscatedName": "ep",
+          "ReturnType": "System.Single",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ga",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetRemountDistance",
+          "ObfuscatedName": "eu",
+          "ReturnType": "System.Single",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ga",
+          "GenericParameters": [],
+          "Parameters": []
+        }
+      ],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "MountItemObject",
+      "ObfuscatedName": "ayi",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "ayh",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "MountItemProxy",
+      "ObfuscatedName": "ax6",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "ax5",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "MountObject",
+      "ObfuscatedName": "a8f",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "a6q",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [
+        {
+          "RefactoredName": "GetDescriptor",
+          "ObfuscatedName": "tj",
+          "ReturnType": "ga",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "a8f",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "IsInRemountDistance",
+          "ObfuscatedName": "tm",
+          "ReturnType": "System.Boolean",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "a8f",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "IsLocalPlayers",
+          "ObfuscatedName": "tk",
+          "ReturnType": "System.Boolean",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "a8f",
+          "GenericParameters": [],
+          "Parameters": []
+        }
+      ],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "MovingObject",
+      "ObfuscatedName": "ays",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "ayr",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "Number",
+      "ObfuscatedName": "sm",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": true,
+      "IsPublic": true,
+      "BaseType": "System.ValueType",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [
+        {
+          "RefactoredName": "FromDouble",
+          "ObfuscatedName": "e",
+          "ReturnType": "sm",
+          "IsStatic": true,
+          "IsPublic": true,
+          "DeclaringType": "sm",
+          "GenericParameters": [],
+          "Parameters": [
+            {
+              "Type": "System.Double",
+              "ObfuscatedName": "A_0"
+            }
+          ]
+        },
+        {
+          "RefactoredName": "FromInt64",
+          "ObfuscatedName": "f",
+          "ReturnType": "sm",
+          "IsStatic": true,
+          "IsPublic": true,
+          "DeclaringType": "sm",
+          "GenericParameters": [],
+          "Parameters": [
+            {
+              "Type": "System.Int64",
+              "ObfuscatedName": "A_0"
+            }
+          ]
+        },
+        {
+          "RefactoredName": "FromRaw",
+          "ObfuscatedName": "e",
+          "ReturnType": "sm",
+          "IsStatic": true,
+          "IsPublic": true,
+          "DeclaringType": "sm",
+          "GenericParameters": [],
+          "Parameters": [
+            {
+              "Type": "System.Int64",
+              "ObfuscatedName": "A_0"
+            }
+          ]
+        },
+        {
+          "RefactoredName": "GetFractionalPart",
+          "ObfuscatedName": "i",
+          "ReturnType": "System.Int64",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "sm",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetFractions",
+          "ObfuscatedName": "j",
+          "ReturnType": "System.Double",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "sm",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetIntegerPart",
+          "ObfuscatedName": "h",
+          "ReturnType": "System.Int64",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "sm",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "ToDouble",
+          "ObfuscatedName": "k",
+          "ReturnType": "System.Double",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "sm",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "TryParse",
+          "ObfuscatedName": "f",
+          "ReturnType": "System.Boolean",
+          "IsStatic": true,
+          "IsPublic": true,
+          "DeclaringType": "sm",
+          "GenericParameters": [],
+          "Parameters": [
+            {
+              "Type": "System.String",
+              "ObfuscatedName": "A_0"
+            },
+            {
+              "Type": "sm&",
+              "ObfuscatedName": "A_1"
+            }
+          ]
+        },
+        {
+          "RefactoredName": "TryParseRaw",
+          "ObfuscatedName": "e",
+          "ReturnType": "System.Boolean",
+          "IsStatic": true,
+          "IsPublic": true,
+          "DeclaringType": "sm",
+          "GenericParameters": [],
+          "Parameters": [
+            {
+              "Type": "System.String",
+              "ObfuscatedName": "A_0"
+            },
+            {
+              "Type": "sm&",
+              "ObfuscatedName": "A_1"
+            }
+          ]
+        }
+      ],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "ObjectManager",
+      "ObfuscatedName": "aq4",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "System.Object",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [
+        {
+          "RefactoredName": "CreateItemProxy",
+          "ObfuscatedName": "a",
+          "ReturnType": "ax3",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "aq4",
+          "GenericParameters": [],
+          "Parameters": [
+            {
+              "Type": "ax0",
+              "ObfuscatedName": "A_0"
+            }
+          ]
+        },
+        {
+          "RefactoredName": "GetCollisionManager",
+          "ObfuscatedName": "y",
+          "ReturnType": "ai7",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "aq4",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetCurrentCluster",
+          "ObfuscatedName": "w",
+          "ReturnType": "ap3",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "aq4",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetInstance",
+          "ObfuscatedName": "a",
+          "ReturnType": "aq4",
+          "IsStatic": true,
+          "IsPublic": true,
+          "DeclaringType": "aq4",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetItemProxy",
+          "ObfuscatedName": "v",
+          "ReturnType": "ax3",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "aq4",
+          "GenericParameters": [],
+          "Parameters": [
+            {
+              "Type": "System.Int64",
+              "ObfuscatedName": "A_0"
+            }
+          ]
+        },
+        {
+          "RefactoredName": "GetLocalPlayerCharacter",
+          "ObfuscatedName": "ac",
+          "ReturnType": "a3i",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "aq4",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetObject",
+          "ObfuscatedName": "a",
+          "ReturnType": "axz",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "aq4",
+          "GenericParameters": [],
+          "Parameters": [
+            {
+              "Type": "System.Int64",
+              "ObfuscatedName": "A_0"
+            }
+          ]
+        },
+        {
+          "RefactoredName": "GetObjectMap",
+          "ObfuscatedName": "am",
+          "ReturnType": "System.Collections.Generic.Dictionary`2<System.Int64,axz>",
+          "IsStatic": false,
+          "IsPublic": false,
+          "DeclaringType": "aq4",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetObjects",
+          "ObfuscatedName": "ab",
+          "ReturnType": "System.Collections.IEnumerable",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "aq4",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetObjects",
+          "ObfuscatedName": "ao",
+          "ReturnType": "System.Collections.Generic.ICollection`1<axz>",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "aq4",
+          "GenericParameters": [
+            {
+              "ObfuscatedName": "a",
+              "Constraints": [
+                "axz"
+              ]
+            }
+          ],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetPlayerCharacter",
+          "ObfuscatedName": "a",
+          "ReturnType": "a3h",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "aq4",
+          "GenericParameters": [],
+          "Parameters": [
+            {
+              "Type": "System.Guid",
+              "ObfuscatedName": "A_0"
+            }
+          ]
+        }
+      ],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "ObservableRange",
+      "ObfuscatedName": "ah5",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "System.Object",
+      "DeclaringType": null,
+      "GenericParameters": [
+        {
+          "ObfuscatedName": "a",
+          "Constraints": [
+            "ah1"
+          ]
+        }
+      ],
+      "Methods": [
+        {
+          "RefactoredName": "GetMaximum",
+          "ObfuscatedName": "l",
+          "ReturnType": "System.Single",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ah5",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetMinimum",
+          "ObfuscatedName": "k",
+          "ReturnType": "System.Single",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ah5",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetObjectId",
+          "ObfuscatedName": "q",
+          "ReturnType": "System.Int64",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ah5",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetValue",
+          "ObfuscatedName": "r",
+          "ReturnType": "System.Single",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ah5",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "SetMinimum",
+          "ObfuscatedName": "k",
+          "ReturnType": "System.Void",
+          "IsStatic": false,
+          "IsPublic": false,
+          "DeclaringType": "ah5",
+          "GenericParameters": [],
+          "Parameters": [
+            {
+              "Type": "System.Single",
+              "ObfuscatedName": "A_0"
+            }
+          ]
+        }
+      ],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "OperationCodes",
+      "ObfuscatedName": "Albion.Common.Photon.OperationCodes",
+      "IsClass": true,
+      "IsEnum": true,
+      "IsInterface": false,
+      "IsValueType": true,
+      "IsPublic": true,
+      "BaseType": "System.Enum",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "OperationRequestDataContract",
+      "ObfuscatedName": "ng",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "k3",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "OperationResponseDataContract",
+      "ObfuscatedName": "nx",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "k3",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "PassiveSpellDescriptor",
+      "ObfuscatedName": "ah9",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "cw",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "PhotonClient",
+      "ObfuscatedName": "axj",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "System.Object",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [
+        {
+          "RefactoredName": "GetGameData",
+          "ObfuscatedName": "ar",
+          "ReturnType": "ir",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "axj",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetGamePeer",
+          "ObfuscatedName": "at",
+          "ReturnType": "aum",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "axj",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetChatPeer",
+          "ObfuscatedName": "av",
+          "ReturnType": "aul",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "axj",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetInstance",
+          "ObfuscatedName": "an",
+          "ReturnType": "axj",
+          "IsStatic": true,
+          "IsPublic": true,
+          "DeclaringType": "axj",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetLoginPeer",
+          "ObfuscatedName": "au",
+          "ReturnType": "aun",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "axj",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetObjectManager",
+          "ObfuscatedName": "a0",
+          "ReturnType": "aq4",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "axj",
+          "GenericParameters": [],
+          "Parameters": []
+        }
+      ],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "PlayerCharacterDescriptor",
+      "ObfuscatedName": "ai5",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "f3",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [
+        {
+          "RefactoredName": "GetHarvestRange",
+          "ObfuscatedName": "d5",
+          "ReturnType": "System.Single",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ai5",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetInventorySize",
+          "ObfuscatedName": "d4",
+          "ReturnType": "System.Int32",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ai5",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetUseObjectRange",
+          "ObfuscatedName": "d7",
+          "ReturnType": "System.Single",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ai5",
+          "GenericParameters": [],
+          "Parameters": []
+        }
+      ],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "PlayerCharactersDataFile",
+      "ObfuscatedName": "fr",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "er",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "PlayerCharacter",
+      "ObfuscatedName": "a3h",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "ayu",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [
+        {
+          "RefactoredName": "GetAllianceName",
+          "ObfuscatedName": "kn",
+          "ReturnType": "System.String",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "a3h",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetGuildName",
+          "ObfuscatedName": "kh",
+          "ReturnType": "System.String",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "a3h",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetIsHarvesting",
+          "ObfuscatedName": "wy",
+          "ReturnType": "System.Boolean",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "a3h",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetIsMounted",
+          "ObfuscatedName": "wo",
+          "ReturnType": "System.Boolean",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "a3h",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetIsMounting",
+          "ObfuscatedName": "w0",
+          "ReturnType": "System.Boolean",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "a3h",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetMount",
+          "ObfuscatedName": "wp",
+          "ReturnType": "ga",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "a3h",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetMountHealth",
+          "ObfuscatedName": "wq",
+          "ReturnType": "ah5<ah4>",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "a3h",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetPlayerDescriptor",
+          "ObfuscatedName": "wj",
+          "ReturnType": "ai5",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "a3h",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetReputation",
+          "ObfuscatedName": "wr",
+          "ReturnType": "ah5<ah2>",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "a3h",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetUid",
+          "ObfuscatedName": "aw",
+          "ReturnType": "System.Guid",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "a3h",
+          "GenericParameters": [],
+          "Parameters": []
+        }
+      ],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "Point2",
+      "ObfuscatedName": "ao6",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": true,
+      "IsPublic": true,
+      "BaseType": "System.ValueType",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [
+        {
+          "RefactoredName": "ToArray",
+          "ObfuscatedName": "a",
+          "ReturnType": "System.Single[]",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ao6",
+          "GenericParameters": [],
+          "Parameters": []
+        }
+      ],
+      "Properties": [],
+      "Fields": [
+        {
+          "RefactoredName": "X",
+          "ObfuscatedName": "e",
+          "Type": "System.Single",
+          "IsPublic": true,
+          "IsStatic": false,
+          "DeclaringType": "ao6"
+        },
+        {
+          "RefactoredName": "Y",
+          "ObfuscatedName": "f",
+          "Type": "System.Single",
+          "IsPublic": true,
+          "IsStatic": false,
+          "DeclaringType": "ao6"
+        }
+      ]
+    },
+    {
+      "RefactoredName": "Point3",
+      "ObfuscatedName": "aje",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": true,
+      "IsPublic": true,
+      "BaseType": "System.ValueType",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "PvpRules",
+      "ObfuscatedName": "kc/PvpRules",
+      "IsClass": true,
+      "IsEnum": true,
+      "IsInterface": false,
+      "IsValueType": true,
+      "IsPublic": false,
+      "BaseType": "System.Enum",
+      "DeclaringType": "kc",
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "Rectangle",
+      "ObfuscatedName": "ajb",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": true,
+      "IsPublic": true,
+      "BaseType": "System.ValueType",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "RemotePlayerCharacter",
+      "ObfuscatedName": "a5v",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "a3h",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "SilverObject",
+      "ObfuscatedName": "a8g",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "a6q",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "SimpleItemDescriptor",
+      "ObfuscatedName": "c4",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "c1",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "SimpleItemObject",
+      "ObfuscatedName": "ax1",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "ax0",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "SimpleItemProxy",
+      "ObfuscatedName": "aya",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "ax3",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "SimulationObject",
+      "ObfuscatedName": "axz",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "System.Object",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [
+        {
+          "RefactoredName": "GetId",
+          "ObfuscatedName": "a0",
+          "ReturnType": "System.Int64",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "axz",
+          "GenericParameters": [],
+          "Parameters": []
+        }
+      ],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "SpellAssessment",
+      "ObfuscatedName": "cx/SpellAssessment",
+      "IsClass": true,
+      "IsEnum": true,
+      "IsInterface": false,
+      "IsValueType": true,
+      "IsPublic": false,
+      "BaseType": "System.Enum",
+      "DeclaringType": "cx",
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "SpellCategory",
+      "ObfuscatedName": "cx/SpellCategory",
+      "IsClass": true,
+      "IsEnum": true,
+      "IsInterface": false,
+      "IsValueType": true,
+      "IsPublic": false,
+      "BaseType": "System.Enum",
+      "DeclaringType": "cx",
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "SpellDescriptor",
+      "ObfuscatedName": "cw",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "b5",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [
+        {
+          "RefactoredName": "GetIdent",
+          "ObfuscatedName": "k6",
+          "ReturnType": "System.String",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "cw",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetName",
+          "ObfuscatedName": "k7",
+          "ReturnType": "System.String",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "cw",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetNameTag",
+          "ObfuscatedName": "jb",
+          "ReturnType": "System.String",
+          "IsStatic": false,
+          "IsPublic": false,
+          "DeclaringType": "cw",
+          "GenericParameters": [],
+          "Parameters": []
+        }
+      ],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "SpellEffectAreaObject",
+      "ObfuscatedName": "ayt",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "ays",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [
+        {
+          "RefactoredName": "GetDescriptor",
+          "ObfuscatedName": "tj",
+          "ReturnType": "cx",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ayt",
+          "GenericParameters": [],
+          "Parameters": []
+        }
+      ],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "SpellsDataFile",
+      "ObfuscatedName": "jl",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "r",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "SpellSlots",
+      "ObfuscatedName": "a3l",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "System.Object",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [
+        {
+          "RefactoredName": "GetLocalPlayerCharacter",
+          "ObfuscatedName": "d",
+          "ReturnType": "a3i",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "a3l",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetSlots",
+          "ObfuscatedName": "c",
+          "ReturnType": "aix[]",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "a3l",
+          "GenericParameters": [],
+          "Parameters": []
+        }
+      ],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "SpellSlot",
+      "ObfuscatedName": "aix",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "System.Object",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [
+        {
+          "RefactoredName": "GetCooldownPercent",
+          "ObfuscatedName": "n",
+          "ReturnType": "System.Single",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "aix",
+          "GenericParameters": [],
+          "Parameters": [
+            {
+              "Type": "Albion.Common.Time.GameTimeStamp",
+              "ObfuscatedName": "A_0"
+            }
+          ]
+        },
+        {
+          "RefactoredName": "GetCooldownTimeStamp",
+          "ObfuscatedName": "o",
+          "ReturnType": "Albion.Common.Time.GameTimeStamp",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "aix",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetSpellDescriptor",
+          "ObfuscatedName": "k",
+          "ReturnType": "cy",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "aix",
+          "GenericParameters": [],
+          "Parameters": []
+        }
+      ],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "SpellTarget",
+      "ObfuscatedName": "cx/SpellTarget",
+      "IsClass": true,
+      "IsEnum": true,
+      "IsInterface": false,
+      "IsValueType": true,
+      "IsPublic": false,
+      "BaseType": "System.Enum",
+      "DeclaringType": "cx",
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "StaticObject",
+      "ObfuscatedName": "a6q",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "ayr",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "TemplateXmlOperator",
+      "ObfuscatedName": "ko",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "kn",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "TerritoryDescriptor",
+      "ObfuscatedName": "ap8",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "System.Object",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [
+        {
+          "RefactoredName": "GetCluster",
+          "ObfuscatedName": "p",
+          "ReturnType": "ap3",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ap8",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetName",
+          "ObfuscatedName": "o",
+          "ReturnType": "System.String",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ap8",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetSize",
+          "ObfuscatedName": "t",
+          "ReturnType": "ao6",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ap8",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetTerritoryType",
+          "ObfuscatedName": "v",
+          "ReturnType": "ap8/TerritoryType",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ap8",
+          "GenericParameters": [],
+          "Parameters": []
+        }
+      ],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "TerritoryObject",
+      "ObfuscatedName": "a8y",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "a6q",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [
+        {
+          "RefactoredName": "GetDescriptor",
+          "ObfuscatedName": "tw",
+          "ReturnType": "ap8",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "a8y",
+          "GenericParameters": [],
+          "Parameters": []
+        }
+      ],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "TerritoryType",
+      "ObfuscatedName": "ap8/TerritoryType",
+      "IsClass": true,
+      "IsEnum": true,
+      "IsInterface": false,
+      "IsValueType": true,
+      "IsPublic": false,
+      "BaseType": "System.Enum",
+      "DeclaringType": "ap8",
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "TileDataFile",
+      "ObfuscatedName": "sf",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "System.Object",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [
+        {
+          "RefactoredName": "GetCompoundtile",
+          "ObfuscatedName": "e",
+          "ReturnType": "r1",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "sf",
+          "GenericParameters": [],
+          "Parameters": [
+            {
+              "Type": "System.String",
+              "ObfuscatedName": "A_0"
+            }
+          ]
+        },
+        {
+          "RefactoredName": "GetTile",
+          "ObfuscatedName": "d",
+          "ReturnType": "ai9",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "sf",
+          "GenericParameters": [],
+          "Parameters": [
+            {
+              "Type": "System.String",
+              "ObfuscatedName": "A_0"
+            }
+          ]
+        },
+        {
+          "RefactoredName": "ReadCompoundTile",
+          "ObfuscatedName": "d",
+          "ReturnType": "r1",
+          "IsStatic": false,
+          "IsPublic": false,
+          "DeclaringType": "sf",
+          "GenericParameters": [],
+          "Parameters": [
+            {
+              "Type": "System.Xml.XmlReader",
+              "ObfuscatedName": "A_0"
+            }
+          ]
+        },
+        {
+          "RefactoredName": "ReadTile",
+          "ObfuscatedName": "f",
+          "ReturnType": "ai9",
+          "IsStatic": false,
+          "IsPublic": false,
+          "DeclaringType": "sf",
+          "GenericParameters": [],
+          "Parameters": [
+            {
+              "Type": "System.Xml.XmlReader",
+              "ObfuscatedName": "A_0"
+            }
+          ]
+        }
+      ],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "TileDescriptor",
+      "ObfuscatedName": "ai9",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "System.Object",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "TimeRegionDescriptor",
+      "ObfuscatedName": "rt",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "System.Object",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "WorldDataFile",
+      "ObfuscatedName": "ap9",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "r",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [
+        {
+          "RefactoredName": "GetCluster",
+          "ObfuscatedName": "i6",
+          "ReturnType": "ap3",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ap9",
+          "GenericParameters": [],
+          "Parameters": [
+            {
+              "Type": "System.String",
+              "ObfuscatedName": "A_0"
+            }
+          ]
+        },
+        {
+          "RefactoredName": "GetClusters",
+          "ObfuscatedName": "i7",
+          "ReturnType": "System.Collections.Generic.IEnumerable`1<ap3>",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ap9",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetExit",
+          "ObfuscatedName": "i7",
+          "ReturnType": "ap4",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ap9",
+          "GenericParameters": [],
+          "Parameters": [
+            {
+              "Type": "System.String",
+              "ObfuscatedName": "A_0"
+            }
+          ]
+        },
+        {
+          "RefactoredName": "GetTerritory",
+          "ObfuscatedName": "i8",
+          "ReturnType": "ap8",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ap9",
+          "GenericParameters": [],
+          "Parameters": [
+            {
+              "Type": "System.String",
+              "ObfuscatedName": "A_0"
+            }
+          ]
+        }
+      ],
+      "Properties": [],
+      "Fields": []
+    },
+    {
+      "RefactoredName": "WorldObject",
+      "ObfuscatedName": "ayr",
+      "IsClass": true,
+      "IsEnum": false,
+      "IsInterface": false,
+      "IsValueType": false,
+      "IsPublic": true,
+      "BaseType": "axz",
+      "DeclaringType": null,
+      "GenericParameters": [],
+      "Methods": [
+        {
+          "RefactoredName": "GetPosition",
+          "ObfuscatedName": "im",
+          "ReturnType": "ao6",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ayr",
+          "GenericParameters": [],
+          "Parameters": []
+        },
+        {
+          "RefactoredName": "GetRotation",
+          "ObfuscatedName": "io",
+          "ReturnType": "System.Single",
+          "IsStatic": false,
+          "IsPublic": true,
+          "DeclaringType": "ayr",
+          "GenericParameters": [],
+          "Parameters": []
+        }
+      ],
+      "Properties": [],
+      "Fields": []
+    }
+  ]
+}
